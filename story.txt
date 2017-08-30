@@ -1,4 +1,4 @@
 Hello, World!
 foo bar
 
-Then the world said hello back... "Hello, User!"
+Then the world got angry... "Go away, User!"
